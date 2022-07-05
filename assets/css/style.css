@@ -109,8 +109,6 @@ section {
 }
 
   /* General use End */
-
-  /* Hero Style Start */
 .hero {
   height: 600px;
   background-image: url("../image/hero-bg.jpg");
@@ -134,12 +132,12 @@ section {
   right: 140px;
 }
 
-/* text spacing for context in the form */
+  /* text spacing for context in the form */
 .hero-form p {
   margin: 5px 0 15px 0;
 }
 
-/* styling for the input boxes */
+  /* styling for the input boxes */
 .form-input {
   border: 1px solid #024e76;
   display: block;
@@ -150,7 +148,7 @@ section {
   margin-bottom: 15px;
 }
 
-/* styling for the radio buttons */
+  /* styling for the radio buttons */
 .hero-form label {
   margin: 0 5px;
 }
