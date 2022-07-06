@@ -365,3 +365,18 @@ section {
 }
 
 /* REACH OUT STYLES END */
+
+.habits {
+  width: 600px;
+  height: 600px;
+}
+
+.habits h1 {
+  color: #fce138;
+  text-align: right;
+  font-size: 80px;
+}
+
+.habits p {
+  margin: 10px;
+}
